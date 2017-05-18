@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpeechToText</string>
+    <string name="speech_not_supported">Sorry speech not supported</string>
+    <string name="speech_prompt">Please Speak and I will display it </string>
+
+
+
+</resources>
