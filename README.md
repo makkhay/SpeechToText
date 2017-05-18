@@ -1,7 +1,7 @@
 # SpeechToText Android Application
 ---
 **A demo app to convert speech to text and text to speech.**
-*When you say "blue", the app will change the background color to blue.
+* When you say "blue", the app will change the background color to blue.
 
 ---
 **How to run ?**
